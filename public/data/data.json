@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "album": "Cowboys from Hell",
+        "año": 1990,
+        "artista": "Pantera",
+        "codigo": 7654321,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b2730ce52f4ba340a1e459e6a978",
+        "nombre": "Pantera - Cowboys from Hell",
+        "precio": 1500,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "album": "Vulgar Display of Power",
+        "año": 1992,
+        "artista": "Pantera",
+        "codigo": 2837164,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_721045-MLU77826355177_072024-O.webp",
+        "nombre": "Pantera - Vulgar Display of Power",
+        "precio": 1600,
+        "stock": 8
+    },
+    {
+        "id": 3,
+        "album": "Rust in Peace",
+        "año": 1990,
+        "artista": "Megadeth",
+        "codigo": 5487923,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/dc/Megadeth-RustInPeace.jpg",
+        "nombre": "Megadeth - Rust in Peace",
+        "precio": 1700,
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "album": "Countdown to Extinction",
+        "año": 1992,
+        "artista": "Megadeth",
+        "codigo": 3965824,
+        "imagen": "https://i2.wp.com/www.scienceofnoise.net/wp-content/uploads/2017/07/countdown-to-extinction-52e315d893300.jpg",
+        "nombre": "Megadeth - Countdown to Extinction",
+        "precio": 1500,
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "album": "Destroyer",
+        "año": 1976,
+        "artista": "Kiss",
+        "codigo": 6582749,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Kiss-Destroyer.jpg/220px-Kiss-Destroyer.jpg",
+        "nombre": "Kiss - Destroyer",
+        "precio": 1400,
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "album": "Love Gun",
+        "año": 1977,
+        "artista": "Kiss",
+        "codigo": 8243671,
+        "imagen": "https://madhouse.com.ar/wp-content/uploads/2022/07/81CYh-PBrSL._SL1428_-1024x1024.jpg",
+        "nombre": "Kiss - Love Gun",
+        "precio": 1450,
+        "stock": 18
+    },
+    {
+        "id": 7,
+        "album": "Sticky Fingers",
+        "año": 1971,
+        "artista": "Rolling Stones",
+        "codigo": 7394826,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273a1d9c9969f2a7ed27e449a3c",
+        "nombre": "Rolling Stones - Sticky Fingers",
+        "precio": 1600,
+        "stock": 25
+    },
+    {
+        "id": 8,
+        "album": "Exile on Main St.",
+        "año": 1972,
+        "artista": "Rolling Stones",
+        "codigo": 4893217,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/ExileMainSt.jpg/220px-ExileMainSt.jpg",
+        "nombre": "Rolling Stones - Exile on Main St.",
+        "precio": 1800,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "album": "Clics Modernos",
+        "año": 1983,
+        "artista": "Charly Garcia",
+        "codigo": 1528347,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273b14842a87b833bc0a9339f60",
+        "nombre": "Charly Garcia - Clics Modernos",
+        "precio": 1300,
+        "stock": 30
+    },
+    {
+        "id": 10,
+        "album": "Piano Bar",
+        "año": 1984,
+        "artista": "Charly Garcia",
+        "codigo": 2873645,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273a89f53c13537b933a43d2600",
+        "nombre": "Charly Garcia - Piano Bar",
+        "precio": 1350,
+        "stock": 22
+    },
+    {
+        "id": 11,
+        "album": "La Grasa de las Capitales",
+        "año": 1979,
+        "artista": "Serú Girán",
+        "codigo": 9162735,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273d9172a63ab39eae0bcafcb14",
+        "nombre": "Serú Girán - La Grasa de las Capitales",
+        "precio": 1400,
+        "stock": 20
+    },
+    {
+        "id": 12,
+        "album": "Bicicleta",
+        "año": 1980,
+        "artista": "Serú Girán",
+        "codigo": 7364529,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b27391334daa58be7ede30e4b603",
+        "nombre": "Serú Girán - Bicicleta",
+        "precio": 1500,
+        "stock": 18
+    },
+    {
+        "id": 13,
+        "album": "Vida",
+        "año": 1972,
+        "artista": "Sui Generis",
+        "codigo": 5248319,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273cbbc34888dc24063d2ce5713",
+        "nombre": "Sui Generis - Vida",
+        "precio": 1300,
+        "stock": 25
+    },
+    {
+        "id": 14,
+        "album": "Pequeñas anécdotas sobre las instituciones",
+        "año": 1974,
+        "artista": "Sui Generis",
+        "codigo": 8147623,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273eacbf53ccfbecd9049b61d39",
+        "nombre": "Sui Generis - Pequeñas anécdotas sobre las instituciones",
+        "precio": 1400,
+        "stock": 20
+    },
+    {
+        "id": 15,
+        "album": "Machine Head",
+        "año": 1972,
+        "artista": "Deep Purple",
+        "codigo": 6471298,
+        "imagen": "https://i.scdn.co/image/ab67616d0000b273bc9b44e950d5440ff65ea926",
+        "nombre": "Deep Purple - Machine Head",
+        "precio": 1600,
+        "stock": 15
+    },
+    {
+        "id": 16,
+        "album": "Made in Japan",
+        "año": 1972,
+        "artista": "Deep Purple",
+        "codigo": 3816274,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c5/Deep_Purple_Made_in_Japan.jpg",
+        "nombre": "Deep Purple - Made in Japan",
+        "precio": 1800,
+        "stock": 12
+    },
+    {
+        "id": 17,
+        "album": "¡¡Bien Ahí!!",
+        "año": 1999,
+        "artista": "La Mona Jimenez",
+        "codigo": 7298146,
+        "imagen": "https://www.cmtv.com.ar/tapas-cd/monabienahi.webp",
+        "nombre": "La Mona Jimenez - ¡¡Bien Ahí!!",
+        "precio": 1100,
+        "stock": 30
+    },
+    {
+        "id": 18,
+        "album": "Una Leyenda En Pie",
+        "año": 2009,
+        "artista": "La Mona Jimenez",
+        "codigo": 5381427,
+        "imagen": "https://www.cmtv.com.ar/tapas-cd/monaleyenda.webp",
+        "nombre": "La Mona Jimenez - Una Leyenda En Pie",
+        "precio": 1200,
+        "stock": 28
+    },
+    {
+        "id": 19,
+        "album": "Selección Privada: En Vivo Con El Pueblo",
+        "año": 2003,
+        "artista": "La Mona Jimenez",
+        "codigo": 8123945,
+        "imagen": "https://cuarteto12.wordpress.com/wp-content/uploads/2019/08/la-mona-jimenez-seleccion-privada-en-vivo-con-el-pueblo-2003-01.jpg",
+        "nombre": "La Mona Jimenez - Selección Privada: En Vivo Con El Pueblo",
+        "precio": 1150,
+        "stock": 32
+    },
+    {
+        "id": 20,
+        "album": "La Historia",
+        "año": 2001,
+        "artista": "La Mona Jimenez",
+        "codigo": 3968741,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_744849-MLU54957829433_042023-O.webp",
+        "nombre": "La Mona Jimenez - La Historia",
+        "precio": 1300,
+        "stock": 25
+    }
+]

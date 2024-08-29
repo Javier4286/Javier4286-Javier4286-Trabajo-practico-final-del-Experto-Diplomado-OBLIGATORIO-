@@ -1,0 +1,55 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+.detalleProducto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    background-color: #fff;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: none;
+    min-height: calc(50vh - 40px);
+}
+
+.detalleProducto img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+}
+
+.detalleProducto p {
+    font-size: 0.9rem;
+    margin: 6px 0;
+    text-align: center;
+}
+
+.detalleProducto p span {
+    font-weight: bold;
+    color: #333;
+}
+
+.detalleProducto .precio {
+    font-size: 1rem;
+    color: #007bff;
+    font-weight: bold;
+}
+
+.detalleProducto .stock {
+    color: #28a745;
+}
+
+.detalleProducto .noProducto {
+    text-align: center;
+    font-size: 1rem;
+    color: #dc3545;
+    margin-top: 20px;
+}
